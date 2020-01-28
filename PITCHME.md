@@ -1,27 +1,27 @@
 
 ![Schéma illustrant le circuit de création et d'obtention des badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badge_System_Overview_PennState_University_DR.jpeg  "Schéma illustrant le circuit de création et d'obtention des badges")
-Stage RS - Fake news diaporama
-==============================
+
+++++
 
 # Fake News et autres troubles de l'information
 
 ----
 
-# Le terme Fake News
+## Le terme Fake News
 
 ----
 
 Mot de l'année 2017 pour le dictionnaire Collins
 Note: entre 2016 et 2017 : bond de 365 % dans les usages
 
------
+----
 
 Popularisé par Trump
 * concerne les médias traditionnels : CNN, New York Times
 * il pense avoir inventé le terme
 Note: mettre copie Tweet Trump sur Fake news et interview où il dit l'avoir inventé
 
------
+----
 
 De nombreuses réalités derrière
 * propagande
@@ -34,7 +34,7 @@ Note: mettre photo propagande russe, pub sur le tabac, charnier de Timisoara, Co
 ----
 
 Une pratique ancienne mais qui prend un tour nouveau avec Internet
-Note : En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage, diffusant mensonges et propagande à propos de la bataille de Qadesh. Selon lui, ce fut une victoire éclatante des Egyptiens sous son égide; selon des observateurs neutres, il s'est agi plutôt d'un "match nul".
+Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage, diffusant mensonges et propagande à propos de la bataille de Qadesh. Selon lui, ce fut une victoire éclatante des Egyptiens sous son égide; selon des observateurs neutres, il s'est agi plutôt d'un "match nul".
 
 ----
 
@@ -85,18 +85,22 @@ Note: terme employé par l'extrême droite
  - déterritorialisation des échanges : facilite l'intrusion des pays étrangers
 
 ----
+
 ## Contexte de polarisation de l'opinion
 
 - mesurée aux Etats-Unis
 - https://www.lemonde.fr/idees/article/2012/11/01/une-polarisation-politique-de-plus-en-plus-preoccupante_1784452_3232.html
 - la polarisation est un bon terreau pour la diffusion des Fake News
 Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
+
 ----
+
 Biais de confirmation
 
 Facebook ne forme pas l'opinion mais le renforce
 pas de considerationd e qualité dans le choix de proposer tel ou tel contenu mais plutot, ce qui est attendu par l'internaute
 
+----
 
 ### Contexte de post-vérité (post-truth)
 - Apparu aux États-Unis en 2004 
@@ -143,7 +147,7 @@ Note : après le 11 septembre Bush a été confus : impression que le président
 * Peu d'impact sur le public cible car vient des grands médias discrédités 
 * Renforcé la diffusion des fake news
 
-
+----
 ### Les réseaux sociaux et les fake news
 
 - les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
@@ -160,7 +164,7 @@ Mais pas de volonté de supprimer les fake news
 Mark Zuckenberg a annoncé qu'ils allaient interdire les publicité aux comptes diffusant des Fake News 
 Note : signifie qu'ils peuvent les identifier
 
-
+----
 
 ### Des outils pour détecter les fake news
 - des questions à se poser :
@@ -184,23 +188,35 @@ Que disent les commentaires ?
 
 Tous factchecker (MOOC Rue 89- France télévision - Le Monde) https://www.youtube.com/playlist?list=PLcHeuji-yRM8C8xlTTCH2laV_5bWz1AS4
 
+----
+
+Des outils techniques
+
+++++
+
 Des outils qui donnent des indications sur la fiabilité des sources
 - Extensions Decodex
 - Extension Newsguard
 
+++++
+
 Retrouver l'origine  des vidéos
 Moteur de recherche inversé de Youtube par Amnesty international
+
+++++
 
 Retrouver l'origine des photos
 Tiny eyes
 Google images
+
+++++
 
 Vérifier qu'une photo n'a pas été retouchée
 https://fotoforensics.com/ : permet de vérifier si des images ont été retouchée
 
 Et une extension qui regroupe tout cela
 
-
+----
 
 ## Classification des fake news
 Claire Wardle : https://firstdraftnews.org/latest/information-disorder-the-techniques-we-saw-in-2016-have-evolved/
@@ -235,35 +251,3 @@ http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissim
 https://twitter.com/LyraPepete/status/1213774147677032448
 https://scie-circulaire-sauteuse.com/test-complet-de-scie-sauteuse-bosch-expert-pst-1000-pel/#top_ankor
 
-## Videos conspirationnistes
-
-1.Un groupe obscur qui tire les ficelles. 
-2. Le détail présenté comme une preuve absolue. ​En principe, plus une information estsurprenante ou plus une accusation est grave, plus il est nécessaire de l’étayer. 
-3. Les coïncidences qui deviennent des preuves.​ Une autre grosse ficelle consiste àutiliser des éléments a priori sans incidence comme autant de preuves que tout estmanipulé.
-.4. L’absence de source fiable devient un argument supplémentaire.​ I
-5. La rhétorique conspirationniste n’accepte pas les remises en cause.
-
-
-https://www.hoaxbuster.com/sante/2014/10/09/vaccin-ror-et-autisme
-
-
-
-
-
-### Les questions à se poser
-
-Guide des questions à se poser face à une information
-https://www.gouvernement.fr/fake-news-guide-des-questions-a-se-poser-face-a-une-information
-
----- 
-
-Qui est l'auteur de l'information ?  
-Quel est l'objectif de l'auteur ?  
-Quelle est la nature du site et de son éditeur ?  
-Quels sont les objectifs du site ?  
-D'où vient l'information ?
-De quand date l'information ?
-L'information présente-t-elle des détails incohérents ?
-Que disent les commentaires ?
----
-Tous factchecker (MOOC Rue 89- France télévision - Le Monde) https://www.youtube.com/playlist?list=PLcHeuji-yRM8C8xlTTCH2laV_5bWz1AS4
