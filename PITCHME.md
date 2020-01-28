@@ -23,12 +23,16 @@ Note: mettre copie Tweet Trump sur Fake news et interview où il dit l'avoir inv
 
 ---
 
-De nombreuses réalités derrière
+### De nombreuses réalités derrière
 * propagande
 * publicité
 * accaparer l'attention (revenu publicitaire)
 * envie de nuire (troll)
-* de la polarisation des arguments jusqu'au mensonge en passant par toutes les nuances de la désinformation
+
++++
+
+de la polarisation des arguments jusqu'au mensonge en passant par toutes les nuances de la désinformation  
+
 Note: mettre photo propagande russe, pub sur le tabac, charnier de Timisoara, Colin Powell et sa preuve des armes de destruction massive, la guerre des monde, news of the world 
 
 ---
@@ -42,7 +46,7 @@ Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage
 - propagation réticulaire
 - tout le monde peut publier
 - tout le monde peut transférer
-        viralité  
+<center><b>viralité</b></center>
 
 Note: insérer l'image Phase 1 : 1 millions de personne produident une fake news, phase 2 :  1 millions de personnes produisent un million de fake news, phase 3 : 1 personne porduit 1 million de fake news
 Note: plus difficile à limiter
