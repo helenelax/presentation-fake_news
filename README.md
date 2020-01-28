@@ -1,6 +1,6 @@
-# Présentation sur les Open Badges
-Présentation à l'occasion de la mini-formation au sein de Montpellier SupAgro.
-23 janvier 2020
+# Présentation sur les Fake News
+Présentation à l'occasion du stage Facebook, Twitter, les réseaux sociaux : les comprendre pour les utilise en classe
+30 janvier 2020
 
-https://gitpitch.com/helenelax/presentation-open_badge_minif_MSA
+https://gitpitch.com/helenelax/presentation-fake_news
 
