@@ -21,7 +21,7 @@ Popularisé par Trump
 * il pense avoir inventé le terme
 Note: mettre copie Tweet Trump sur Fake news et interview où il dit l'avoir inventé
 
-----
+---
 
 De nombreuses réalités derrière
 * propagande
@@ -31,12 +31,12 @@ De nombreuses réalités derrière
 * de la polarisation des arguments jusqu'au mensonge en passant par toutes les nuances de la désinformation
 Note: mettre photo propagande russe, pub sur le tabac, charnier de Timisoara, Colin Powell et sa preuve des armes de destruction massive, la guerre des monde, news of the world 
 
-----
+---
 
 Une pratique ancienne mais qui prend un tour nouveau avec Internet
 Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage, diffusant mensonges et propagande à propos de la bataille de Qadesh. Selon lui, ce fut une victoire éclatante des Egyptiens sous son égide; selon des observateurs neutres, il s'est agi plutôt d'un "match nul".
 
-----
+---
 
 Nouveautés
 - technique :
@@ -47,25 +47,25 @@ Nouveautés
         - plus difficile à limiter
 Note: insérer l'image Phase 1 : 1 millions de personne produident une fake news, phase 2 :  1 millions de personnes produisent un million de fake news, phase 3 : 1 personne porduit 1 million de fake news
 
-----
+---
 
    - le numérique facilite la création de faux
        - montage
        - même niveau de qualité que les pros
        - ne coûte rien
 
-----
+---
 
 Sentiment d'impunité, déconnexion du réel lié au numérique
 
-----
+---
 
 - le contexte
     - flux incessant
         - 1 seconde pour transmettre une fake news et 2 heures pour la vérifier
        - à la fois ça passe vite mais ça reste sur les réseaux : donc les rumeurs peuvent revenir
 
-----
+---
 
     - méfiance envers les médias traditionnels
 Note : durant les élections américaines : plus grande défiance chez les Républicains envers les grands médias or dans les fait, les grands médias étaient plutôt à soutenir Clinton
@@ -80,11 +80,11 @@ Note: visible sur Gilets jaunes par exemple
 Méfiance instrumentalisée : "réinformation"
 Note: terme employé par l'extrême droite
 
-----
+---
 
  - déterritorialisation des échanges : facilite l'intrusion des pays étrangers
 
-----
+---
 
 ## Contexte de polarisation de l'opinion
 
@@ -93,14 +93,14 @@ Note: terme employé par l'extrême droite
 - la polarisation est un bon terreau pour la diffusion des Fake News
 Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
 
-----
+---
 
 Biais de confirmation
 
 Facebook ne forme pas l'opinion mais le renforce
 pas de considerationd e qualité dans le choix de proposer tel ou tel contenu mais plutot, ce qui est attendu par l'internaute
 
-----
+---
 
 ### Contexte de post-vérité (post-truth)
 - Apparu aux États-Unis en 2004 
@@ -111,24 +111,24 @@ Note: mot de l'année 2016 pour le dictionnaire d'Oxford
 - l'émotion plutôt que les faits ou que de l'argumentation
 - l'opinion est au même niveau que le fait
 
-++++
++++
 
 On peut exprimer des choses non vérifiées dans l'espace public sans conséquence la vérification se passant après.
 
 Note: Entre les deux tours en 2017 Marine Le Pen lors d'un débat a dit à Macron : "J'espère qu'on ne va pas découvrir que vous avez un compte au Bahamas". Juste un peu avant à 19h, sur 4chan, il avait été demandé de faire monter le hashtag #macroncachecash et il est apparu sur Twitter durant le débat avec pour certains des tweets en français traduits, sur des comptes connus pour être russe ou pro-Trump. Et le lendemenain Le Pen a dit qu'elle n'avait pas de preuves mais que la réponse de Macron n'était pas convaincante
 Note: tweet MacronCacheCash
-Note : Campagne Brexit, les brexiter (Nigel Farrage) estimaient que le Royaume-Uni « envoyait » chaque semaine plus de 350 millions de livres sterling (environ 434 millions d’euros) à l’Union européenne. Idée de l’UKIP était de rediriger cette somme vers le National Health Service (NHS), la sécurité sociale britannique.
+Note: Campagne Brexit, les brexiter (Nigel Farrage) estimaient que le Royaume-Uni « envoyait » chaque semaine plus de 350 millions de livres sterling (environ 434 millions d’euros) à l’Union européenne. Idée de l’UKIP était de rediriger cette somme vers le National Health Service (NHS), la sécurité sociale britannique.
 Le lendemain du vote, deux journalistes de l’émission Good Morning Britain sur ITV ont donc demandé à Nigel Farage si sa promesse tenait toujours. Farage reconnu que cela n'était pas possible 
-Note : ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émission de télé
+Note: ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émission de télé
 
-
-----
+---
 
 ### Limite du concept
 Ne signifie pas qu'avant il y avait la vérité
 Ni que les personnes n'attachent plus d'importance à la vérité
 
 ---- 
+
 ## Fact-checking
 
 Part invisible du travail journalistique devient visible
@@ -139,15 +139,15 @@ Part invisible du travail journalistique devient visible
 * lié à l'expansion infotainment à la télé
 * mais aussi au 11 septembre et aux "armes de destruction massives de l'Irak" (Mars 2003)
 
-Note : infotaitment hommes politique sinterviewé par des animateurs qui ne les contredisent pas
-Note : après le 11 septembre Bush a été confus : impression que le président ment et que les médias le couvre.
+Note: infotaitment hommes politique sinterviewé par des animateurs qui ne les contredisent pas
+Note: après le 11 septembre Bush a été confus : impression que le président ment et que les médias le couvre.
 
-----
+---
 ### Limites du fact-checking
 * Peu d'impact sur le public cible car vient des grands médias discrédités 
 * Renforcé la diffusion des fake news
 
-----
+---
 ### Les réseaux sociaux et les fake news
 
 - les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
@@ -167,12 +167,12 @@ Note : signifie qu'ils peuvent les identifier
 ----
 
 ### Des outils pour détecter les fake news
-- des questions à se poser :
-### Les questions à se poser
+
+#### Les questions à se poser
 
 Guide des questions à se poser face à une information
 https://www.gouvernement.fr/fake-news-guide-des-questions-a-se-poser-face-a-une-information
-
+[Je suis un lien dans la ligne](https://www.google.com)
 ---- 
 
 Qui est l'auteur de l'information ?  
@@ -186,37 +186,37 @@ Que disent les commentaires ?
 
 ---
 
-Tous factchecker (MOOC Rue 89- France télévision - Le Monde) https://www.youtube.com/playlist?list=PLcHeuji-yRM8C8xlTTCH2laV_5bWz1AS4
+Tous factchecker (MOOC Rue 89- France télévision - Le Monde) https://www.youtube.com/playlist?list=PLcHeuji-yRM8C8xlTTCH2laV_5bWz1AS4 [Je suis un lien dans la ligne](https://www.google.com)
 
-----
+---
 
 Des outils techniques
 
-++++
++++
 
 Des outils qui donnent des indications sur la fiabilité des sources
-- Extensions Decodex
-- Extension Newsguard
+- Extensions Decodex [Je suis un lien dans la ligne](https://www.google.com)
+- Extension Newsguard [Je suis un lien dans la ligne](https://www.google.com)
 
-++++
++++
 
 Retrouver l'origine  des vidéos
-Moteur de recherche inversé de Youtube par Amnesty international
+Moteur de recherche inversé de Youtube par Amnesty international [Je suis un lien dans la ligne](https://www.google.com)
 
-++++
++++
 
 Retrouver l'origine des photos
-Tiny eyes
-Google images
+Tiny eyes [Je suis un lien dans la ligne](https://www.google.com)
+Google images [Je suis un lien dans la ligne](https://www.google.com)
 
-++++
++++
 
 Vérifier qu'une photo n'a pas été retouchée
-https://fotoforensics.com/ : permet de vérifier si des images ont été retouchée
+https://fotoforensics.com/ : permet de vérifier si des images ont été retouchée [Je suis un lien dans la ligne](https://www.google.com)
 
 Et une extension qui regroupe tout cela
 
-----
+---
 
 ## Classification des fake news
 Claire Wardle : https://firstdraftnews.org/latest/information-disorder-the-techniques-we-saw-in-2016-have-evolved/
@@ -238,7 +238,7 @@ trump qui annnonce la fin du sida, deep fake interview de Mark Zukerberg
 Pizza gate avec Clinton L’infox : On a appelé ça « le pizzagate ». Selon cette théorie lancée durant la campagne présidentielle pour discréditer Hillary Clinton, les sous-sols de la pizzeria Comet Ping Pong, à Washington, renfermeraient des enfants transformés en esclaves sexuels pour des magnats de la politique. Et évidemment, Hillary Clinton est au courant, voire complice, comme le prouve un mail de son chef de campagne qui affirme aimer les pizzas… et puisque de nombreux démocrates se rendent au Comet Ping Pong, c’est bien que la preuve que… !
 Imed Bentaleb paté lorrain
 
-
+---
 
 ## Des fake à étudier
 
