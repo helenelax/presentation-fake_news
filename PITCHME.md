@@ -1,20 +1,20 @@
 
 ![Schéma illustrant le circuit de création et d'obtention des badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badge_System_Overview_PennState_University_DR.jpeg  "Schéma illustrant le circuit de création et d'obtention des badges")
 
-++++
+---
 
 # Fake News et autres troubles de l'information
 
-----
+---
 
 ## Le terme Fake News
 
-----
+---
 
 Mot de l'année 2017 pour le dictionnaire Collins
 Note: entre 2016 et 2017 : bond de 365 % dans les usages
 
-----
++++
 
 Popularisé par Trump
 * concerne les médias traditionnels : CNN, New York Times
