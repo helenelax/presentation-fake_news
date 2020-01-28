@@ -1,6 +1,5 @@
 
 ![Schéma illustrant le circuit de création et d'obtention des badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badge_System_Overview_PennState_University_DR.jpeg  "Schéma illustrant le circuit de création et d'obtention des badges")
-
 ---
 
 # Fake News et autres troubles de l'information
@@ -50,7 +49,6 @@ Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage
 - propagation réticulaire
 - tout le monde peut publier
 - tout le monde peut transférer
-
 Note: insérer l'image Phase 1 1 millions de personne produident une fake news, phase 21 millions de personnes produisent un million de fake news, phase 3 1 personne porduit 1 million de fake news  
 Note: plus difficile à limiter
 
@@ -157,7 +155,7 @@ Note: ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émissi
 * Ne signifie pas qu'avant il y avait la vérité
 * Ni que les personnes n'attachent plus d'importance à la vérité
 
----- 
+----
 
 ## Fact-checking
 
@@ -182,6 +180,7 @@ Note: après le 11 septembre Bush a été confus : impression que le président 
 ## Les réseaux sociaux et les fake news
 
 - les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
+
 Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
 - et plus de retweet : élections françaises de 2017 27.3% de re-tweet pour une fake news et 7,12% pour sa réfutation (Source : Poliscope)
 Note: source un groupe de chercheur du CNRS qui ont créé le Politoscope qui permet d'étudier les tweet concernant cette élection en utilisant les outils du Big Data + article publié dans PLos One  https://www.sciencesetavenir.fr/politique/sur-twitter-l-echo-limite-des-fake-news_127982
@@ -193,10 +192,9 @@ Note: source un groupe de chercheur du CNRS qui ont créé le Politoscope qui pe
 * Mark Zuckenberg a annoncé qu'ils allaient interdire les publicité aux comptes diffusant des Fake News 
 Note: signifie qu'ils peuvent les identifier
 
-----
+---
 
 ## Des outils pour détecter les fake news
-
 ### Les questions à se poser
 
 Guide des questions à se poser face à une information
