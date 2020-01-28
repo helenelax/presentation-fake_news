@@ -42,70 +42,97 @@ Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage
 
 ---
 
-#### Technique
+## Ce que les réseaux ont changé à la désinformation |
+### Technique
+
+---
+### Technique
 - propagation réticulaire
 - tout le monde peut publier
 - tout le monde peut transférer
 
-Note: insérer l'image Phase 1 1 millions de personne produident une fake news, phase 2  1 millions de personnes produisent un million de fake news, phase 3 1 personne porduit 1 million de fake news  
+Note: insérer l'image Phase 1 1 millions de personne produident une fake news, phase 21 millions de personnes produisent un million de fake news, phase 3 1 personne porduit 1 million de fake news  
 Note: plus difficile à limiter
 
 ---
 
-#### Technique
+### Technique
 Le numérique facilite la création de faux
     - montages
     - grand niveau de qualité
     - peu cher
 
----
++++
 
-Sentiment d'impunité, déconnexion du réel lié au numérique
-
----
-#### Contexte
-    - flux incessant
-        - 1 seconde pour transmettre une fake news et 2 heures pour la vérifier
-       - à la fois ça passe vite mais ça reste sur les réseaux : donc les rumeurs peuvent revenir
+### Technique
+Les échanges ne sont plus tributaires des frontières |
+ingérence étrangère facilité
 
 ---
 
-    - méfiance envers les médias traditionnels
+## Ce que les réseaux ont changé à la désinformation |
+### Contexte
+
++++
+
+### Contexte
+Sentiment d'impunité, déconnexion du "réel" lié au numérique
+
+---
+
+### Contexte
+#### Flux incessant  
+- 1 seconde pour transmettre une fake news et 2 heures pour la vérifier
+
+---
+
+### Contexte
+#### Méfiance envers les médias traditionnels
 Note: durant les élections américaines : plus grande défiance chez les Républicains envers les grands médias or dans les fait, les grands médias étaient plutôt à soutenir Clinton
-        - renforcé par le fait que les journalistes ne peuvent être partout mais des images peuvent être prises partout
-- facilité par une coupure entre les journalistes et une partie de la population (études, amis, localisation) 
+- renforcé par le fait que les journalistes ne peuvent être partout mais des images peuvent être prises partout
+- coupure entre les journalistes et une partie de la population (études, amis, localisation) 
 Note: visible sur Gilets jaunes par exemple
 
-        - passage de l'information verticale à l'info horizontale (Jean Marie Charron)
-    - émotion plutôt que le fait
-    - mélange info /divertissement
++++
+
+#### Méfiance envers les médias traditionnels
+- émotion plutôt que le fait
+- mélange info /divertissement
 Note: Jospin chantant le temps des cerises
+
++++
+
+#### Méfiance envers les médias traditionnels
+- passage de l'information verticale à l'info horizontale (Jean Marie Charron)
+
++++
+
+#### Méfiance envers les médias traditionnels
 Méfiance instrumentalisée : "réinformation"
 Note: terme employé par l'extrême droite
 
 ---
 
- - déterritorialisation des échanges : facilite l'intrusion des pays étrangers
-
----
-
-## Contexte de polarisation de l'opinion
+### Contexte
+#### Polarisation de l'opinion
 
 - mesurée aux Etats-Unis
-- https://www.lemonde.fr/idees/article/2012/11/01/une-polarisation-politique-de-plus-en-plus-preoccupante_1784452_3232.html
+Note: 35% répu, 35% démocrates mais les démocrates sont devenus plus à gauche et les républicains plus à droite
 - la polarisation est un bon terreau pour la diffusion des Fake News
 Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
 
 ---
+#### Polarisation de l'opinion
+- favorisée/confortée par les réseaux sociaux ?
+    - biais de confirmation
+    - bulle
 
-Biais de confirmation
-
-Facebook ne forme pas l'opinion mais le renforce
-pas de consideration de qualité dans le choix de proposer tel ou tel contenu mais plutot, ce qui est attendu par l'internaute
+Note: Facebook ne forme pas l'opinion mais le renforce
 
 ---
 
-### Contexte de post-vérité (post-truth)
+### Contexte
+#### L'ére de la post-vérité (post-truth)
 - Apparu aux États-Unis en 2004 
 - devenu populaire en 2016 (élections américaines, Brexit)
 Note: photo Johnson et Trump
@@ -115,7 +142,7 @@ Note: mot de l'année 2016 pour le dictionnaire d'Oxford
 - l'opinion est au même niveau que le fait
 
 +++
-
+#### L'ére de la post-vérité (post-truth)
 On peut exprimer des choses non vérifiées dans l'espace public sans conséquence la vérification se passant après.
 
 Note: Entre les deux tours en 2017 Marine Le Pen lors d'un débat a dit à Macron : "J'espère qu'on ne va pas découvrir que vous avez un compte au Bahamas". Juste un peu avant à 19h, sur 4chan, il avait été demandé de faire monter le hashtag #macroncachecash et il est apparu sur Twitter durant le débat avec pour certains des tweets en français traduits, sur des comptes connus pour être russe ou pro-Trump. Et le lendemenain Le Pen a dit qu'elle n'avait pas de preuves mais que la réponse de Macron n'était pas convaincante
@@ -124,11 +151,11 @@ Note: Campagne Brexit, les brexiter (Nigel Farrage) estimaient que le Royaume-Un
 Le lendemain du vote, deux journalistes de l’émission Good Morning Britain sur ITV ont donc demandé à Nigel Farage si sa promesse tenait toujours. Farage reconnu que cela n'était pas possible 
 Note: ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émission de télé
 
----
-
-### Limite du concept
-Ne signifie pas qu'avant il y avait la vérité
-Ni que les personnes n'attachent plus d'importance à la vérité
++++
+#### L'ére de la post-vérité (post-truth)
+##### Limite du concept
+* Ne signifie pas qu'avant il y avait la vérité
+* Ni que les personnes n'attachent plus d'importance à la vérité
 
 ---- 
 
@@ -148,10 +175,11 @@ Note: après le 11 septembre Bush a été confus : impression que le président 
 ---
 ### Limites du fact-checking
 * Peu d'impact sur le public cible car vient des grands médias discrédités 
-* Renforcé la diffusion des fake news
+* Risque de renforcer la diffusion des fake news
 
 ---
-### Les réseaux sociaux et les fake news
+
+## Les réseaux sociaux et les fake news
 
 - les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
 Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
@@ -159,19 +187,17 @@ Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinto
 Note: source un groupe de chercheur du CNRS qui ont créé le Politoscope qui permet d'étudier les tweet concernant cette élection en utilisant les outils du Big Data + article publié dans PLos One  https://www.sciencesetavenir.fr/politique/sur-twitter-l-echo-limite-des-fake-news_127982
 
 ----
-
-Depuis 2017 Facebook et Google favorisent les medias traditionnels dans leurs algorithmes de tri
-
-Mais pas de volonté de supprimer les fake news
-
-Mark Zuckenberg a annoncé qu'ils allaient interdire les publicité aux comptes diffusant des Fake News 
+## Les réseaux sociaux et les fake news
+* Depuis 2017 Facebook et Google favorisent les medias traditionnels dans leurs algorithmes de tri
+* Mais pas de volonté de supprimer les fake news (pour Facebook)
+* Mark Zuckenberg a annoncé qu'ils allaient interdire les publicité aux comptes diffusant des Fake News 
 Note: signifie qu'ils peuvent les identifier
 
 ----
 
-### Des outils pour détecter les fake news
+## Des outils pour détecter les fake news
 
-#### Les questions à se poser
+### Les questions à se poser
 
 Guide des questions à se poser face à une information
 [gouvernement.fr](https://www.gouvernement.fr/fake-news-guide-des-questions-a-se-poser-face-a-une-information)
@@ -193,38 +219,51 @@ Tous factchecker [MOOC Rue 89- France télévision - Le Monde](https://www.youtu
 
 ---
 
-#### Des outils techniques
-
-+++
+### Des outils techniques
 
 Des outils qui donnent des indications sur la fiabilité des sources
-- Extensions Decodex [Je suis un lien dans la ligne](https://www.google.com)
-- Extension Newsguard [Je suis un lien dans la ligne](https://www.google.com)
+- Extension [Decodex](https://addons.mozilla.org/fr/firefox/addon/lemonde-decodex/?src=search)
+- Extension [Newsguard](https://addons.mozilla.org/fr/firefox/addon/newsguard/?src=search)
 
 +++
 
 Retrouver l'origine  des vidéos
-Moteur de recherche inversé de Youtube par Amnesty international [Je suis un lien dans la ligne](https://www.google.com)
+[Moteur de recherche inversé sur Youtube] par Amnesty international(https://citizenevidence.amnestyusa.org/)
 
 +++
 
 Retrouver l'origine des photos
-Tiny eyes [Je suis un lien dans la ligne](https://www.google.com)
-Google images [Je suis un lien dans la ligne](https://www.google.com)
+[TinEyes](https://tineye.com/)
+[Google images](https://www.google.fr/imghp?hl=fr)
 
 +++
 
 Vérifier qu'une photo n'a pas été retouchée
-https://fotoforensics.com/ : permet de vérifier si des images ont été retouchée [Fotoforensics](https://fotoforensics.com/ )
+[Fotoforensics](https://fotoforensics.com/ )
 
-Et une extension qui regroupe tout cela
++++ 
+
+Et une extension qui regroupe tout cela : [InVid](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/)
 
 ---
 
 ## Classification des fake news
-Claire Wardle : https://firstdraftnews.org/latest/information-disorder-the-techniques-we-saw-in-2016-have-evolved/
-à utiliser absolument !! https://fr.firstdraftnews.org/fake-news-la-complexite-de-la-desinformation/
+Claire Wardle : [First Draft](https://firstdraftnews.org/latest/information-disorder-the-techniques-we-saw-in-2016-have-evolved/)
 
+Note: https://fr.firstdraftnews.org/fake-news-la-complexite-de-la-desinformation/
+
++++
+
+### Distinguer
+
+* Les différents types de contenus créés et partagés
+* Les motivations des personnes à l’origine de ces contenus
+* Les modes de diffusion de ces contenus
+
+### 3 types en fonction de l'intentionalité
+* La *mésinformation* (misinformation)
+* la *désinformation* (disinformation)
+* la *malinformation* (malinformation).
 
 1. Satire : el Gorafi
 2. Fausse connexion : écart entre le titre et le contenu; Putaclic
@@ -245,12 +284,11 @@ Imed Bentaleb paté lorrain
 
 ## Des fake à étudier
 
-https://www.youtube.com/watch?v=q4PCegSHKK4
-https://www.youtube.com/watch?v=BXunRN3IVfM
-
-http://www.wikistrike.com/2020/01/esperer-un-coronavirus-qui-toucherait-les-plus-de-70-ans-un-depute-lrem-derape.html
-http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissimule-au-public-un-risque-d-autisme-de-340-lie-aux-vaccins-124530791.html
-http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissimule-au-public-un-risque-d-autisme-de-340-lie-aux-vaccins-124530791.html source CNN en fait la source etait sur un forum de CNN deposé apr une personne et il a ete ensuite neleve par CNN De plus sur cet article on voir le powerpoint du medecin mais aucun article sceintifique qui vient corroboré ses déclarations: toute l'histoire : https://www.hoaxbuster.com/sante/2014/10/09/vaccin-ror-et-autisme
-https://twitter.com/LyraPepete/status/1213774147677032448
-https://scie-circulaire-sauteuse.com/test-complet-de-scie-sauteuse-bosch-expert-pst-1000-pel/#top_ankor
+* https://www.youtube.com/watch?v=q4PCegSHKK4
+* https://www.youtube.com/watch?v=BXunRN3IVfM
+* http://www.wikistrike.com/2020/01/esperer-un-coronavirus-qui-toucherait-les-plus-de-70-ans-un-depute-lrem-derape.html
+* http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissimule-au-public-un-risque-d-autisme-de-340-lie-aux-vaccins-124530791.html
+* http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissimule-au-public-un-risque-d-autisme-de-340-lie-aux-vaccins-124530791.html source CNN en fait la source etait sur un forum de CNN deposé apr une personne et il a ete ensuite neleve par CNN De plus sur cet article on voir le powerpoint du medecin mais aucun article sceintifique qui vient corroboré ses déclarations: toute l'histoire : https://www.hoaxbuster.com/sante/2014/10/09/vaccin-ror-et-autisme
+* https://twitter.com/LyraPepete/status/1213774147677032448
+* https://scie-circulaire-sauteuse.com/test-complet-de-scie-sauteuse-bosch-expert-pst-1000-pel/#top_ankor
 
