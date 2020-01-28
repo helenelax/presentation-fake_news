@@ -155,7 +155,7 @@ Note: ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émissi
 * Ne signifie pas qu'avant il y avait la vérité
 * Ni que les personnes n'attachent plus d'importance à la vérité
 
-----
+---
 
 ## Fact-checking
 
@@ -179,7 +179,7 @@ Note: après le 11 septembre Bush a été confus : impression que le président 
 
 ## Les réseaux sociaux et les fake news
 
-- les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
+Les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
 
 Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
 - et plus de retweet : élections françaises de 2017 27.3% de re-tweet pour une fake news et 7,12% pour sa réfutation (Source : Poliscope)
