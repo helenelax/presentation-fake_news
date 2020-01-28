@@ -46,8 +46,7 @@ Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage
 - propagation réticulaire
 - tout le monde peut publier
 - tout le monde peut transférer
-<center><b>viralité</b></center>
-
+<center><b>viralité</b></center>  
 Note: insérer l'image Phase 1 : 1 millions de personne produident une fake news, phase 2 :  1 millions de personnes produisent un million de fake news, phase 3 : 1 personne porduit 1 million de fake news
 Note: plus difficile à limiter
 
