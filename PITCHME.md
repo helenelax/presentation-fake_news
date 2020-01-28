@@ -38,29 +38,29 @@ Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage
 
 ---
 
-Nouveautés
-- technique :
-    - propagation réticulaire
-        - tout le monde peut publier
-        - tout le monde peut transférer
-        - effet viral : 
-        - plus difficile à limiter
+#### Technique
+- propagation réticulaire
+- tout le monde peut publier
+- tout le monde peut transférer
+        viralité  
+
 Note: insérer l'image Phase 1 : 1 millions de personne produident une fake news, phase 2 :  1 millions de personnes produisent un million de fake news, phase 3 : 1 personne porduit 1 million de fake news
+Note: plus difficile à limiter
 
 ---
 
-   - le numérique facilite la création de faux
-       - montage
-       - même niveau de qualité que les pros
-       - ne coûte rien
+#### Technique
+Le numérique facilite la création de faux
+    - montages
+    - grand niveau de qualité
+    - peu cher
 
 ---
 
 Sentiment d'impunité, déconnexion du réel lié au numérique
 
 ---
-
-- le contexte
+#### Contexte
     - flux incessant
         - 1 seconde pour transmettre une fake news et 2 heures pour la vérifier
        - à la fois ça passe vite mais ça reste sur les réseaux : donc les rumeurs peuvent revenir
@@ -68,7 +68,7 @@ Sentiment d'impunité, déconnexion du réel lié au numérique
 ---
 
     - méfiance envers les médias traditionnels
-Note : durant les élections américaines : plus grande défiance chez les Républicains envers les grands médias or dans les fait, les grands médias étaient plutôt à soutenir Clinton
+Note: durant les élections américaines : plus grande défiance chez les Républicains envers les grands médias or dans les fait, les grands médias étaient plutôt à soutenir Clinton
         - renforcé par le fait que les journalistes ne peuvent être partout mais des images peuvent être prises partout
 - facilité par une coupure entre les journalistes et une partie de la population (études, amis, localisation) 
 Note: visible sur Gilets jaunes par exemple
@@ -76,7 +76,7 @@ Note: visible sur Gilets jaunes par exemple
         - passage de l'information verticale à l'info horizontale (Jean Marie Charron)
     - émotion plutôt que le fait
     - mélange info /divertissement
- Note: Jospin chantant le temps des cerises
+Note: Jospin chantant le temps des cerises
 Méfiance instrumentalisée : "réinformation"
 Note: terme employé par l'extrême droite
 
@@ -98,7 +98,7 @@ Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinto
 Biais de confirmation
 
 Facebook ne forme pas l'opinion mais le renforce
-pas de considerationd e qualité dans le choix de proposer tel ou tel contenu mais plutot, ce qui est attendu par l'internaute
+pas de consideration de qualité dans le choix de proposer tel ou tel contenu mais plutot, ce qui est attendu par l'internaute
 
 ---
 
@@ -136,7 +136,7 @@ Part invisible du travail journalistique devient visible
 ---
 
 * Né en 2003 avec le site : factcheck.org
-* lié à l'expansion infotainment à la télé
+* lié à l'expansion *infotainment* à la télé
 * mais aussi au 11 septembre et aux "armes de destruction massives de l'Irak" (Mars 2003)
 
 Note: infotaitment hommes politique sinterviewé par des animateurs qui ne les contredisent pas
@@ -151,7 +151,7 @@ Note: après le 11 septembre Bush a été confus : impression que le président 
 ### Les réseaux sociaux et les fake news
 
 - les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
-Note : Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
+Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
 - et plus de retweet : élections françaises de 2017 27.3% de re-tweet pour une fake news et 7,12% pour sa réfutation (Source : Poliscope)
 Note: source un groupe de chercheur du CNRS qui ont créé le Politoscope qui permet d'étudier les tweet concernant cette élection en utilisant les outils du Big Data + article publié dans PLos One  https://www.sciencesetavenir.fr/politique/sur-twitter-l-echo-limite-des-fake-news_127982
 
@@ -162,7 +162,7 @@ Depuis 2017 Facebook et Google favorisent les medias traditionnels dans leurs al
 Mais pas de volonté de supprimer les fake news
 
 Mark Zuckenberg a annoncé qu'ils allaient interdire les publicité aux comptes diffusant des Fake News 
-Note : signifie qu'ils peuvent les identifier
+Note: signifie qu'ils peuvent les identifier
 
 ----
 
@@ -171,9 +171,9 @@ Note : signifie qu'ils peuvent les identifier
 #### Les questions à se poser
 
 Guide des questions à se poser face à une information
-https://www.gouvernement.fr/fake-news-guide-des-questions-a-se-poser-face-a-une-information
-[Je suis un lien dans la ligne](https://www.google.com)
----- 
+[gouvernement.fr](https://www.gouvernement.fr/fake-news-guide-des-questions-a-se-poser-face-a-une-information)
+
++++
 
 Qui est l'auteur de l'information ?  
 Quel est l'objectif de l'auteur ?  
@@ -184,13 +184,13 @@ De quand date l'information ?
 L'information présente-t-elle des détails incohérents ?
 Que disent les commentaires ?
 
++++
+
+Tous factchecker [MOOC Rue 89- France télévision - Le Monde](https://www.youtube.com/playlist?list=PLcHeuji-yRM8C8xlTTCH2laV_5bWz1AS4)
+
 ---
 
-Tous factchecker (MOOC Rue 89- France télévision - Le Monde) https://www.youtube.com/playlist?list=PLcHeuji-yRM8C8xlTTCH2laV_5bWz1AS4 [Je suis un lien dans la ligne](https://www.google.com)
-
----
-
-Des outils techniques
+#### Des outils techniques
 
 +++
 
@@ -212,7 +212,7 @@ Google images [Je suis un lien dans la ligne](https://www.google.com)
 +++
 
 Vérifier qu'une photo n'a pas été retouchée
-https://fotoforensics.com/ : permet de vérifier si des images ont été retouchée [Je suis un lien dans la ligne](https://www.google.com)
+https://fotoforensics.com/ : permet de vérifier si des images ont été retouchée [Fotoforensics](https://fotoforensics.com/ )
 
 Et une extension qui regroupe tout cela
 
