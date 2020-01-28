@@ -46,9 +46,11 @@ Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage
 
 ---
 ### Technique
+
 - propagation réticulaire
 - tout le monde peut publier
 - tout le monde peut transférer
+
 Note: insérer l'image Phase 1 1 millions de personne produident une fake news, phase 21 millions de personnes produisent un million de fake news, phase 3 1 personne porduit 1 million de fake news  
 Note: plus difficile à limiter
 
@@ -56,9 +58,9 @@ Note: plus difficile à limiter
 
 ### Technique
 Le numérique facilite la création de faux
-    - montages
-    - grand niveau de qualité
-    - peu cher
+- montages
+- grand niveau de qualité
+- peu cher
 
 +++
 
