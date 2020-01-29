@@ -91,13 +91,8 @@ Sentiment d'impunité, déconnexion du "réel" lié au numérique
 ### Contexte
 #### Méfiance envers les médias traditionnels
 * renforcé par le fait que les journalistes ne peuvent être partout mais des images peuvent être prises partout
-
-
-Note: durant les élections américaines : plus grande défiance chez les Républicains envers les grands médias or dans les fait, les grands médias étaient plutôt à soutenir Clinton
 * coupure entre les journalistes et une partie de la population (études, amis, localisation) 
-
-
-Note: visible sur Gilets jaunes par exemple
+Note: durant les élections américaines : plus grande défiance chez les Républicains envers les grands médias or dans les fait, les grands médias étaient plutôt à soutenir Clinton  
 
 +++
 
