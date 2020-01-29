@@ -30,7 +30,7 @@ Note: mettre copie Tweet Trump sur Fake news et interview où il dit l'avoir inv
 
 +++
 
-de la polarisation des arguments jusqu'au mensonge en passant par toutes les nuances de la désinformation  
+De la polarisation des arguments jusqu'au mensonge en passant par toutes les nuances de la désinformation  
 
 Note: mettre photo propagande russe, pub sur le tabac, charnier de Timisoara, Colin Powell et sa preuve des armes de destruction massive, la guerre des monde, news of the world 
 
@@ -41,17 +41,19 @@ Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage
 
 ---
 
-## Ce que les réseaux ont changé à la désinformation |
+## Ce que les réseaux ont changé à la désinformation
 ### Technique
 
 ---
+
 ### Technique
 
 - propagation réticulaire
 - tout le monde peut publier
 - tout le monde peut transférer
 
-Note: insérer l'image Phase 1 1 millions de personne produident une fake news, phase 21 millions de personnes produisent un million de fake news, phase 3 1 personne porduit 1 million de fake news  
+Note: insérer l'image Phase 1 1 millions de personne produident une fake news
+, phase 21 millions de personnes produisent un million de fake news, phase 3 1 personne porduit 1 million de fake news  
 Note: plus difficile à limiter
 
 ---
@@ -70,7 +72,7 @@ ingérence étrangère facilité
 
 ---
 
-## Ce que les réseaux ont changé à la désinformation |
+## Ce que les réseaux ont changé à la désinformation
 ### Contexte
 
 +++
@@ -88,9 +90,9 @@ Sentiment d'impunité, déconnexion du "réel" lié au numérique
 
 ### Contexte
 #### Méfiance envers les médias traditionnels
+* renforcé par le fait que les journalistes ne peuvent être partout mais des images peuvent être prises partout
 Note: durant les élections américaines : plus grande défiance chez les Républicains envers les grands médias or dans les fait, les grands médias étaient plutôt à soutenir Clinton
-- renforcé par le fait que les journalistes ne peuvent être partout mais des images peuvent être prises partout
-- coupure entre les journalistes et une partie de la population (études, amis, localisation) 
+* coupure entre les journalistes et une partie de la population (études, amis, localisation) 
 Note: visible sur Gilets jaunes par exemple
 
 +++
