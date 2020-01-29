@@ -1,7 +1,3 @@
-
-![Schéma illustrant le circuit de création et d'obtention des badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badge_System_Overview_PennState_University_DR.jpeg  "Schéma illustrant le circuit de création et d'obtention des badges")
----
-
 # Fake News et autres troubles de l'information
 
 ---
@@ -17,12 +13,38 @@ Note: entre 2016 et 2017 : bond de 365 % dans les usages
 
 Popularisé par Trump
 * concerne les médias traditionnels : CNN, New York Times
-* il pense avoir inventé le terme
-Note: mettre copie Tweet Trump sur Fake news et interview où il dit l'avoir inventé
+![Tweet Trump Fake news](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Trump_fake_news_grand_media.png  "Tweet Trump Fake News")
+
++++
+
+Et il pense avoir inventé le terme
+![Article invention Fake News par Trump](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Trump_invention_Fake_news.jpg  "Trump pense avoir inventé le terme Fake News")
 
 ---
 
-### De nombreuses réalités derrière
+## Une pratique ancienne ...
+mais qui prend un tour nouveau avec Internet
+Note: au 13e s avant JC, Ramsès II  Fit diffuser que la bataille de Qadesh fut une victoire éclatante des Egyptiens sous son égide; selon des observateurs neutres, il s'est agi plutôt d'un "match nul".
+
++++
+
+![Photos de propagande soviétique](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Soviet_censorship_with_Stalin2_DP.jpg  "Photo de propagande soviétique")
+De gauche à droite Nikolai Antipov , Joseph Staline, Sergei Kirov et Nikolai Shvernik.
+
++++
+
+![Anciennes pub Lucky Strike](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Lucky_Strike.jpg "Publicité établissant que les cigarettes sont bonnes pour la santé")
+
++++
+
+![Orson Wells - Guerre des Mondes - 1938](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Mercury-Theatre-Radio-Rehearsal-1938_Orson_Wells_Guerre_des_mondes.jpg "Orson Wells - Guerre des Mondes - 1938")
+
++++
+
+![Charnier Timisoara](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Timisoara.jpeg "Charnier Timisoara")
+
++++
+## De nombreuses réalités derrière
 * propagande
 * publicité
 * accaparer l'attention (revenu publicitaire)
@@ -30,14 +52,10 @@ Note: mettre copie Tweet Trump sur Fake news et interview où il dit l'avoir inv
 
 +++
 
-De la polarisation des arguments jusqu'au mensonge en passant par toutes les nuances de la désinformation  
+De la polarisation des arguments  
+jusqu'au mensonge en passant  
+par toutes les nuances de la désinformation 
 
-Note: mettre photo propagande russe, pub sur le tabac, charnier de Timisoara, Colin Powell et sa preuve des armes de destruction massive, la guerre des monde, news of the world 
-
----
-
-Une pratique ancienne mais qui prend un tour nouveau avec Internet
-Note: En effet, au XIIIème siècle avant JC, Ramsès II en faisait déjà usage, diffusant mensonges et propagande à propos de la bataille de Qadesh. Selon lui, ce fut une victoire éclatante des Egyptiens sous son égide; selon des observateurs neutres, il s'est agi plutôt d'un "match nul".
 
 ---
 
@@ -68,13 +86,20 @@ Le numérique facilite la création de faux
 "nous en sommes actuellement entre l'étape 1 et l'étape 2 !", Shuman Ghosemajumder, directeur de la technologie pour Shape Security et ancien responsable de la cyber fraude chez Google, mai 2019
 
 +++
+
 ### Technique
 #### Deep fake
+![Deep Fake interview Mark Zuckerberg](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Deep_Fake_Mark_Zuckerberg.jpg "Deep Fake interview Mark Zuckerberg")
+[Instagram](https://www.instagram.com/p/ByaVigGFP2U/)
 
 +++
 ### Technique
-Les échanges ne sont plus tributaires des frontières |
-ingérence étrangère facilité
+Les échanges ne sont plus tributaires des frontières
+@fa[arrowèright] ingérence étrangère facilité
+
++++
+
+![Tweet Macron cash Cash faute ortho](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Macron_cash-cache2.jpg)
 
 ---
 
@@ -105,7 +130,11 @@ Note: durant les élections américaines : plus grande défiance chez les Répub
 #### Méfiance envers les médias traditionnels
 - émotion plutôt que le fait
 - mélange info /divertissement
-Note: Jospin chantant le temps des cerises
+
++++
+
+![Jospin chante el temps des cerises](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Jospin_feuilles_mortes_Carnaval_Patrick_Sebastien.jpg)
+Émission Carnaval - 1985
 
 +++
 
@@ -123,12 +152,13 @@ Note: terme employé par l'extrême droite
 ### Contexte
 #### Polarisation de l'opinion
 
-- mesurée aux Etats-Unis
-- la polarisation est un bon terreau pour la diffusion des Fake News
+* mesurée aux Etats-Unis
+* la polarisation est un bon terreau pour la diffusion des Fake News
+
 Note: 35% répu, 35% démocrates mais les démocrates sont devenus plus à gauche et les républicains plus à droite  
-Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements
 
 ---
+
 #### Polarisation de l'opinion
 - favorisée/confortée par les réseaux sociaux ?
     - biais de confirmation
@@ -145,18 +175,23 @@ Note: Facebook ne forme pas l'opinion mais le renforce
 - concerne d'abord les hommes politiques
 - l'émotion plutôt que les faits ou que de l'argumentation
 - l'opinion est au même niveau que le fait
-Note: photo Johnson et Trump  
-mot de l'année 2016 pour le dictionnaire d'Oxford
+Note: mot de l'année 2016 pour le dictionnaire d'Oxford
 
 +++
 #### L'ére de la post-vérité (post-truth)
 On peut exprimer des choses non vérifiées dans l'espace public sans conséquence la vérification se passant après.
 
+![Tweet Macron cash Cash faute ortho](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Macron_cash-cache2.jpg)
+
 Note: Entre les deux tours en 2017 Marine Le Pen lors d'un débat a dit à Macron : "J'espère qu'on ne va pas découvrir que vous avez un compte au Bahamas". Juste un peu avant à 19h, sur 4chan, il avait été demandé de faire monter le hashtag #macroncachecash et il est apparu sur Twitter durant le débat avec pour certains des tweets en français traduits, sur des comptes connus pour être russe ou pro-Trump. Et le lendemenain Le Pen a dit qu'elle n'avait pas de preuves mais que la réponse de Macron n'était pas convaincante
-Note: tweet MacronCacheCash
+
++++
+#### L'ére de la post-vérité (post-truth)
+
+![Nigel Farage](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Nigel_Farage_.jpg)
+Les promesses de Nigel Farage avant le Brexit
 Note: Campagne Brexit, les brexiter (Nigel Farrage) estimaient que le Royaume-Uni « envoyait » chaque semaine plus de 350 millions de livres sterling (environ 434 millions d’euros) à l’Union européenne. Idée de l’UKIP était de rediriger cette somme vers le National Health Service (NHS), la sécurité sociale britannique.
-Le lendemain du vote, deux journalistes de l’émission Good Morning Britain sur ITV ont donc demandé à Nigel Farage si sa promesse tenait toujours. Farage reconnu que cela n'était pas possible 
-Note: ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émission de télé
+Le lendemain du vote, deux journalistes de l’émission Good Morning Britain sur ITV ont donc demandé à Nigel Farage si sa promesse tenait toujours. Farage reconnu que cela n'était pas possible. ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émission de télé
 
 +++
 #### L'ére de la post-vérité (post-truth)
@@ -190,7 +225,9 @@ Note: après le 11 septembre Bush a été confus : impression que le président 
 
 Les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
 
-Note: Buzzfeed a ainsi révélé que le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fausses nouvelles sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans les trois mois précédant l’élection américaine, alors que les proportions étaient nettement à l’avantage des grands médias jusqu’en juillet 2016. Cela signifie que les internautes ont préféré relayer des messages partisans correspondant à leurs engagements, qui se renforcent toujours à l’approche d’une élection, au détriment d’une analyse froide et sereine des programmes et des personnalités des candidats
+Note: le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fakes sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans 3 trois mois précédant l’élection américaine, inverse jusqu’en juillet 2016. 
+
+## Les réseaux sociaux et les fake news
 - et plus de retweet : élections françaises de 2017 27.3% de re-tweet pour une fake news et 7,12% pour sa réfutation (Source : Poliscope)
 Note: source un groupe de chercheur du CNRS qui ont créé le Politoscope qui permet d'étudier les tweet concernant cette élection en utilisant les outils du Big Data + article publié dans PLos One  https://www.sciencesetavenir.fr/politique/sur-twitter-l-echo-limite-des-fake-news_127982
 
@@ -206,10 +243,10 @@ Note: signifie qu'ils peuvent les identifier
 ## Des outils pour détecter les fake news
 ### Les questions à se poser
 
-Guide des questions à se poser face à une information
-[gouvernement.fr](https://www.gouvernement.fr/fake-news-guide-des-questions-a-se-poser-face-a-une-information)
-
 +++
+
+### Guide des questions à se poser face à une information
+[gouvernement.fr](https://www.gouvernement.fr/fake-news-guide-des-questions-a-se-poser-face-a-une-information)
 
 Qui est l'auteur de l'information ?  
 Quel est l'objectif de l'auteur ?  
@@ -221,7 +258,7 @@ L'information présente-t-elle des détails incohérents ?
 Que disent les commentaires ?
 
 +++
-
+### Les questions à se poser
 Tous factchecker [MOOC Rue 89- France télévision - Le Monde](https://www.youtube.com/playlist?list=PLcHeuji-yRM8C8xlTTCH2laV_5bWz1AS4)
 
 ---
@@ -235,7 +272,7 @@ Des outils qui donnent des indications sur la fiabilité des sources
 +++
 
 Retrouver l'origine  des vidéos
-[Moteur de recherche inversé sur Youtube] par Amnesty international(https://citizenevidence.amnestyusa.org/)
+[Moteur de recherche inversé sur Youtube](https://citizenevidence.amnestyusa.org/) par Amnesty International
 
 +++
 
@@ -272,28 +309,64 @@ Note: https://fr.firstdraftnews.org/fake-news-la-complexite-de-la-desinformation
 * la *désinformation* (disinformation)
 * la *malinformation* (malinformation).
 
-1. Satire :
-http://darons.net/sa-vie-entierement-plagiee-sur-facebook/
-2. Fausse connexion : écart entre le titre et le contenu; Putaclic
-3. Contenu trompeur : utiliser une partie d'un propos, usage partiel d'une information pour un argument. Citer des statistiques qui s'alignent sur un contenu. Ex. Marine Le Pen qui montre un diagramme avec la progression de la production, en france, en allemagne,... et avec l'arrivée de l'euro, ça chute sauf l'allemagne. Mais si on prend les stats depuis 1974, l'allemagne se decalait des autres déjà . Et tout le monde a chuté en 2008, aà cause de la rse et même la GB qui n'est pas passé à l'euro. Utilisation tronquée d'une phrase de Juppé sur la cosntructon de la plus grande mosqiée d'europe Ali Juppé, son inervention est coupé pour faire croire qu'il a dit qu'il avait construit la plus grande mosquée d'Europe
-4. Faux contexte
-Info vraie mais on a modifié le contexte. Ex; la musulmane qui tourne la tête après les attentats de Londres; Le pompier qui a perdu son oeil
-5. contenu imposteur
-Info, photo avec des logos d'attribution à d'auyre service pour donner de la crédibilité : accorder une source fausse : ex. le site anti vaccin qui dit que la source est CNN
-6. contenu manipulé
-contenu authentique maipulé, photo montage. Ex. la fille qui est survivante des tueries et qui dechire la constitution. La jeune fille avec le koala et le masque à gaz https://twitter.com/BuzzFeedNews/status/978455817174175744
-7. Contenu fabriqué
-Tout est faux, deep fake
-trump qui annnonce la fin du sida, deep fake interview de Mark Zukerberg
-Pizza gate avec Clinton L’infox : On a appelé ça « le pizzagate ». Selon cette théorie lancée durant la campagne présidentielle pour discréditer Hillary Clinton, les sous-sols de la pizzeria Comet Ping Pong, à Washington, renfermeraient des enfants transformés en esclaves sexuels pour des magnats de la politique. Et évidemment, Hillary Clinton est au courant, voire complice, comme le prouve un mail de son chef de campagne qui affirme aimer les pizzas… et puisque de nombreux démocrates se rendent au Comet Ping Pong, c’est bien que la preuve que… !
-Imed Bentaleb paté lorrain
+### 1. Satire, pastiche
+![Vie plagiée Facebook](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Vie_plagiee_facebook.png)
+[Darons.net](http://darons.net/sa-vie-entierement-plagiee-sur-facebook/)
+
++++
+
+### 2. Lien erroné 
+écart entre le titre et le contenu
+
++++
+
+### 3. Contenu trompeur
+utiliser une partie d'un propos, usage partiel d'une information pour un argument, graphiques mal utilisés
+
+![Tricherie election sondage](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Tricherie_election_sondage.png)
+
+
++++
+
+### 4. Faux contexte
+Info vraie mais on a modifié le contexte
+![Oeil pompier](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/pompier_oeil.png)
+Note: oeil suite manif police
+
++++
+
+### 5. Contenu fallacieux
+Info, photo avec des logos d'attribution à d'autres services pour donner de la crédibilité
+
+![Les échos](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Les_echos_mccaulay.jpg)
+
++++
+
+### 6. Contenu manipulé
+Contenu authentique manipulé, photo montage.
+
+![Koalas](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Montage_fille_koala.png)
+
++++
+
+### 7. Contenu fabriqué
+Tout est fabriqué
+
+![Belloubet](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/1182631-lettre-belloubet-ministre-justice-procureurs-severite-gilets-jaunes)
+
+Note: Pizzagate Clinton
+
+
++++
+![7 types de fake](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/7_types_de_fake.png)
+
 
 ---
 
 ## Des fake à étudier
 
 * https://www.youtube.com/watch?v=q4PCegSHKK4
-* https://www.youtube.com/watch?v=BXunRN3IVfM
+*) https://www.youtube.com/watch?v=BXunRN3IVfM)
 * http://www.wikistrike.com/2020/01/esperer-un-coronavirus-qui-toucherait-les-plus-de-70-ans-un-depute-lrem-derape.html
 * http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissimule-au-public-un-risque-d-autisme-de-340-lie-aux-vaccins-124530791.html
 * http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissimule-au-public-un-risque-d-autisme-de-340-lie-aux-vaccins-124530791.html source CNN en fait la source etait sur un forum de CNN deposé apr une personne et il a ete ensuite neleve par CNN De plus sur cet article on voir le powerpoint du medecin mais aucun article sceintifique qui vient corroboré ses déclarations: toute l'histoire : https://www.hoaxbuster.com/sante/2014/10/09/vaccin-ror-et-autisme
