@@ -12,7 +12,7 @@ Note: entre 2016 et 2017 : bond de 365 % dans les usages
 +++
 
 Popularisé par Trump
-* concerne les médias traditionnels : CNN, New York Times
+* à propos les médias traditionnels
 ![Tweet Trump Fake news](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Trump_fake_news_grand_media.png  "Tweet Trump Fake News")
 
 +++
@@ -59,8 +59,7 @@ par toutes les nuances de la désinformation
 
 ---
 
-## Ce que les réseaux ont changé à la désinformation
-### Technique
+## Ce que les réseaux ont changé à la désinformation : la technique
 
 ---
 
@@ -93,6 +92,12 @@ Le numérique facilite la création de faux
 [Instagram](https://www.instagram.com/p/ByaVigGFP2U/)
 
 +++
+
+#### Deep fake
+![Deep Fake visages](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/intelligence-artificelle-ia-visages)
+Visages créés par une IA
+
++++
 ### Technique
 Les échanges ne sont plus tributaires des frontières
 @fa[arrowèright] ingérence étrangère facilité
@@ -103,8 +108,7 @@ Les échanges ne sont plus tributaires des frontières
 
 ---
 
-## Ce que les réseaux ont changé à la désinformation
-### Contexte
+## Ce que les réseaux ont changé à la désinformation : le contexte
 
 +++
 
@@ -133,8 +137,8 @@ Note: durant les élections américaines : plus grande défiance chez les Répub
 
 +++
 
-![Jospin chante el temps des cerises](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Jospin_feuilles_mortes_Carnaval_Patrick_Sebastien.jpg)
-Émission Carnaval - 1985
+![Jospin chante el temps des cerises](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Jospin_feuilles_mortes_Carnaval_Patrick_Sebastien.jpg)  
+<span style="font-size: 15px;">Émission Carnaval - 1985</span>
 
 +++
 
@@ -189,7 +193,7 @@ Note: Entre les deux tours en 2017 Marine Le Pen lors d'un débat a dit à Macro
 #### L'ére de la post-vérité (post-truth)
 
 ![Nigel Farage](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Nigel_Farage_.jpg)
-Les promesses de Nigel Farage avant le Brexit
+Les promesses de Nigel Farage avant et après le Brexit
 Note: Campagne Brexit, les brexiter (Nigel Farrage) estimaient que le Royaume-Uni « envoyait » chaque semaine plus de 350 millions de livres sterling (environ 434 millions d’euros) à l’Union européenne. Idée de l’UKIP était de rediriger cette somme vers le National Health Service (NHS), la sécurité sociale britannique.
 Le lendemain du vote, deux journalistes de l’émission Good Morning Britain sur ITV ont donc demandé à Nigel Farage si sa promesse tenait toujours. Farage reconnu que cela n'était pas possible. ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émission de télé
 
@@ -207,12 +211,12 @@ Part invisible du travail journalistique devient visible
 
 ---
 
+## Fact-checking
 * Né en 2003 avec le site : factcheck.org
 * lié à l'expansion *infotainment* à la télé
 * mais aussi au 11 septembre et aux "armes de destruction massives de l'Irak" (Mars 2003)
 
-Note: infotaitment hommes politiques interviewé par des animateurs qui ne les contredisent pas
-Note: après le 11 septembre Bush a été confus : impression que le président ment et que les médias le couvre.
+Note: infotaitment hommes politiques interviewé par des animateurs qui ne les contredisent pas. Après le 11 septembre Bush a été confus : impression que le président ment et que les médias le couvre.
 
 ---
 ### Limites du fact-checking
@@ -226,6 +230,8 @@ Note: après le 11 septembre Bush a été confus : impression que le président 
 Les Fake News produisent plus d'engagement que les vraies (cf. enquête Buzzfeed)
 
 Note: le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fakes sur Facebook a suscité plus d’engagement que le Top 20 des articles issus des grands médias dans 3 trois mois précédant l’élection américaine, inverse jusqu’en juillet 2016. 
+
++++
 
 ## Les réseaux sociaux et les fake news
 - et plus de retweet : élections françaises de 2017 27.3% de re-tweet pour une fake news et 7,12% pour sa réfutation (Source : Poliscope)
@@ -304,10 +310,14 @@ Note: https://fr.firstdraftnews.org/fake-news-la-complexite-de-la-desinformation
 * Les motivations des personnes à l’origine de ces contenus
 * Les modes de diffusion de ces contenus
 
++++ 
+
 ### 3 types en fonction de l'intentionalité
 * La *mésinformation* (misinformation)
 * la *désinformation* (disinformation)
-* la *malinformation* (malinformation).
+* la *malinformation* (malinformation)
+
++++
 
 ### 1. Satire, pastiche
 ![Vie plagiée Facebook](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Vie_plagiee_facebook.png)
@@ -316,7 +326,7 @@ Note: https://fr.firstdraftnews.org/fake-news-la-complexite-de-la-desinformation
 +++
 
 ### 2. Lien erroné 
-écart entre le titre et le contenu
+écart entre le titre et le contenu = baitclick ou pièce-à-clic
 
 +++
 
@@ -358,6 +368,7 @@ Note: Pizzagate Clinton
 
 
 +++
+
 ![7 types de fake](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/7_types_de_fake.png)
 
 
