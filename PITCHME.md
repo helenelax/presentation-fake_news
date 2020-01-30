@@ -90,26 +90,26 @@ Le numérique facilite la création de faux
 
 +++
 
-![Les étapes de la production de fake news de masse](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Numerique_facilite_fake.png  "Les étapes de la production de fake news de masse")
-"nous en sommes actuellement entre l'étape 1 et l'étape 2 !", Shuman Ghosemajumder, directeur de la technologie pour Shape Security et ancien responsable de la cyber fraude chez Google, mai 2019
+![Les étapes de la production de fake news de masse](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Numerique_facilite_fake.png  "Les étapes de la production de fake news de masse")  
+<span style="font-size: 15px;">"Nous en sommes actuellement entre l'étape 1 et l'étape 2 !", Shuman Ghosemajumder, directeur de la technologie pour Shape Security et ancien responsable de la cyber fraude chez Google, mai 2019</span>
 
 +++
 
 ### Technique
 #### Deep fake
-![Deep Fake interview Mark Zuckerberg](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Deep_Fake_Mark_Zuckerberg.jpg "Deep Fake interview Mark Zuckerberg")
-[Instagram](https://www.instagram.com/p/ByaVigGFP2U/)
+![Deep Fake interview Mark Zuckerberg](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Deep_Fake_Mark_Zuckerberg.jpg "Deep Fake interview Mark Zuckerberg")  
+<span style="font-size: 15px;">[Instagram](https://www.instagram.com/p/ByaVigGFP2U/)</span>
 
 +++
 
 #### Deep fake
 ![Deep Fake visages](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/intelligence-artificelle-ia-visages)
-Visages créés par une IA
+<span style="font-size: 15px;">Visages créés par une IA</span>
 
 +++
 ### Technique
 Les échanges ne sont plus tributaires des frontières
-@fa[arrowèright] ingérence étrangère facilité
+@fa[arrow-right] ingérence étrangère facilité
 
 +++
 
@@ -147,6 +147,7 @@ Note: durant les élections américaines : plus grande défiance chez les Répub
 +++
 
 ![Jospin chante el temps des cerises](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Jospin_feuilles_mortes_Carnaval_Patrick_Sebastien.jpg)  
+    
 <span style="font-size: 15px;">Émission Carnaval - 1985</span>
 
 +++
@@ -246,7 +247,8 @@ Note: le Top 20 (dont 17 pro-Trump ou anti-Clinton) des fakes sur Facebook a sus
 - et plus de retweet : élections françaises de 2017 27.3% de re-tweet pour une fake news et 7,12% pour sa réfutation (Source : Poliscope)
 Note: source un groupe de chercheur du CNRS qui ont créé le Politoscope qui permet d'étudier les tweet concernant cette élection en utilisant les outils du Big Data + article publié dans PLos One  https://www.sciencesetavenir.fr/politique/sur-twitter-l-echo-limite-des-fake-news_127982
 
-----
+---
+
 ## Les réseaux sociaux et les fake news
 * Depuis 2017 Facebook et Google favorisent les medias traditionnels dans leurs algorithmes de tri
 * Mais pas de volonté de supprimer les fake news (pour Facebook)
@@ -263,14 +265,14 @@ Note: signifie qu'ils peuvent les identifier
 ### Guide des questions à se poser face à une information
 [gouvernement.fr](https://www.gouvernement.fr/fake-news-guide-des-questions-a-se-poser-face-a-une-information)
 
-Qui est l'auteur de l'information ?  
+Qui est l'auteur de l'information ?   
 Quel est l'objectif de l'auteur ?  
 Quelle est la nature du site et de son éditeur ?  
 Quels sont les objectifs du site ?  
-D'où vient l'information ?
-De quand date l'information ?
-L'information présente-t-elle des détails incohérents ?
-Que disent les commentaires ?
+D'où vient l'information ?  
+De quand date l'information ?  
+L'information présente-t-elle des détails incohérents ?  
+Que disent les commentaires ?  
 
 +++
 ### Les questions à se poser
@@ -335,7 +337,7 @@ Note: https://fr.firstdraftnews.org/fake-news-la-complexite-de-la-desinformation
 +++
 
 ### 2. Lien erroné 
-écart entre le titre et le contenu = baitclick ou pièce-à-clic
+écart entre le titre et le contenu = baitclick ou piège-à-clic
 
 +++
 
