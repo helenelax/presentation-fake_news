@@ -39,14 +39,14 @@ par toutes les nuances de la désinformation
 
 ## Une pratique ancienne ...
 
-![Ramses 2]((http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Ramesses_II_in_the_Turin_Museum24.jpg)
+![Ramses 2](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Ramesses_II_in_the_Turin_Museum24.jpg)
 
 Note: au 13e s avant JC, Ramsès II  Fit diffuser que la bataille de Qadesh fut une victoire éclatante des Egyptiens sous son égide; selon des observateurs neutres, il s'est agi plutôt d'un "match nul".
 
 +++
 
 ![Photos de propagande soviétique](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Soviet_censorship_with_Stalin2_DP.jpg  "Photo de propagande soviétique")
-De gauche à droite Nikolai Antipov , Joseph Staline, Sergei Kirov et Nikolai Shvernik.
+Note: De gauche à droite Nikolai Antipov , Joseph Staline, Sergei Kirov et Nikolai Shvernik.
 
 +++
 
@@ -59,6 +59,10 @@ De gauche à droite Nikolai Antipov , Joseph Staline, Sergei Kirov et Nikolai Sh
 +++
 
 ![Charnier Timisoara](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Timisoara.jpeg "Charnier Timisoara")
+
++++
+
+![Colin Powell et les armes de destruction massives](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Colin_Powell_reuters "Colin Powells et les armes de destruction massive")
 
 +++
 
@@ -91,6 +95,8 @@ Le numérique facilite la création de faux
 +++
 
 ![Les étapes de la production de fake news de masse](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Numerique_facilite_fake.png  "Les étapes de la production de fake news de masse")  
+
+
 <span style="font-size: 15px;">"Nous en sommes actuellement entre l'étape 1 et l'étape 2 !", Shuman Ghosemajumder, directeur de la technologie pour Shape Security et ancien responsable de la cyber fraude chez Google, mai 2019</span>
 
 +++
@@ -98,17 +104,19 @@ Le numérique facilite la création de faux
 ### Technique
 #### Deep fake
 ![Deep Fake interview Mark Zuckerberg](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Deep_Fake_Mark_Zuckerberg.jpg "Deep Fake interview Mark Zuckerberg")  
+
 <span style="font-size: 15px;">[Instagram](https://www.instagram.com/p/ByaVigGFP2U/)</span>
 
 +++
 
 #### Deep fake
-![Deep Fake visages](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/intelligence-artificelle-ia-visages)
+![Deep Fake visages](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/intelligence-artificelle-ia-visages)  
+
 <span style="font-size: 15px;">Visages créés par une IA</span>
 
 +++
 ### Technique
-Les échanges ne sont plus tributaires des frontières
+Les échanges ne sont plus tributaires des frontières  
 @fa[arrow-right] ingérence étrangère facilité
 
 +++
@@ -202,8 +210,10 @@ Note: Entre les deux tours en 2017 Marine Le Pen lors d'un débat a dit à Macro
 +++
 #### L'ére de la post-vérité (post-truth)
 
-![Nigel Farage](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Nigel_Farage_.jpg)
-Les promesses de Nigel Farage avant et après le Brexit
+![Nigel Farage](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Nigel_Farage_.jpg)  
+
+<span style="font-size: 15px;">Les promesses de Nigel Farage avant et après le Brexit</span>
+
 Note: Campagne Brexit, les brexiter (Nigel Farrage) estimaient que le Royaume-Uni « envoyait » chaque semaine plus de 350 millions de livres sterling (environ 434 millions d’euros) à l’Union européenne. Idée de l’UKIP était de rediriger cette somme vers le National Health Service (NHS), la sécurité sociale britannique.
 Le lendemain du vote, deux journalistes de l’émission Good Morning Britain sur ITV ont donc demandé à Nigel Farage si sa promesse tenait toujours. Farage reconnu que cela n'était pas possible. ex infotaitment : En 2017 Nigel farrage est devenu animateur d'une émission de télé
 
