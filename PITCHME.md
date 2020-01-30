@@ -22,8 +22,25 @@ Et il pense avoir inventé le terme
 
 ---
 
+## De nombreuses réalités derrière
+* propagande
+* publicité
+* accaparer l'attention (revenu publicitaire)
+* envie de nuire (troll)
+
++++
+
+De la polarisation des arguments  
+jusqu'au mensonge en passant  
+par toutes les nuances de la désinformation 
+
+
+---
+
 ## Une pratique ancienne ...
-mais qui prend un tour nouveau avec Internet
+
+![Ramses 2]((http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Ramesses_II_in_the_Turin_Museum24.jpg)
+
 Note: au 13e s avant JC, Ramsès II  Fit diffuser que la bataille de Qadesh fut une victoire éclatante des Egyptiens sous son égide; selon des observateurs neutres, il s'est agi plutôt d'un "match nul".
 
 +++
@@ -44,24 +61,16 @@ De gauche à droite Nikolai Antipov , Joseph Staline, Sergei Kirov et Nikolai Sh
 ![Charnier Timisoara](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/Timisoara.jpeg "Charnier Timisoara")
 
 +++
-## De nombreuses réalités derrière
-* propagande
-* publicité
-* accaparer l'attention (revenu publicitaire)
-* envie de nuire (troll)
 
-+++
+## Une pratique ancienne ...
 
-De la polarisation des arguments  
-jusqu'au mensonge en passant  
-par toutes les nuances de la désinformation 
-
+mais qui prend un tour nouveau avec Internet
 
 ---
 
 ## Ce que les réseaux ont changé à la désinformation : la technique
 
----
++++
 
 ### Technique
 
@@ -71,7 +80,7 @@ par toutes les nuances de la désinformation
 
 Note: plus difficile à limiter
 
----
++++
 
 ### Technique
 Le numérique facilite la création de faux
