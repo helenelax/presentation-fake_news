@@ -383,15 +383,4 @@ Note: Pizzagate Clinton
 ![7 types de fake](http://www.lamerguez.com/presentations_GitPich/presentation-fake_news/7_types_de_fake.png)
 
 
----
 
-## Des fake à étudier
-
-* https://www.youtube.com/watch?v=q4PCegSHKK4
-*) https://www.youtube.com/watch?v=BXunRN3IVfM)
-* http://www.wikistrike.com/2020/01/esperer-un-coronavirus-qui-toucherait-les-plus-de-70-ans-un-depute-lrem-derape.html
-* http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissimule-au-public-un-risque-d-autisme-de-340-lie-aux-vaccins-124530791.html
-* http://initiativecitoyenne.be/article-cnn-revele-la-fraude-du-cdc-ils-ont-dissimule-au-public-un-risque-d-autisme-de-340-lie-aux-vaccins-124530791.html source CNN en fait la source etait sur un forum de CNN deposé apr une personne et il a ete ensuite neleve par CNN De plus sur cet article on voir le powerpoint du medecin mais aucun article sceintifique qui vient corroboré ses déclarations: toute l'histoire : https://www.hoaxbuster.com/sante/2014/10/09/vaccin-ror-et-autisme
-* https://twitter.com/LyraPepete/status/1213774147677032448
-* https://scie-circulaire-sauteuse.com/test-complet-de-scie-sauteuse-bosch-expert-pst-1000-pel/#top_ankor
-* https://twitter.com/LyraPepete/status/1213774147677032448
